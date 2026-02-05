@@ -1,0 +1,72 @@
+{
+  "header": {
+    "search": "Search crops, tasks, or workers...",
+    "toggleTheme": "Toggle theme",
+    "guest": "Guest",
+    "visitor": "Visitor",
+    "notifications":"notifications",
+    "noNotifications":"no Notifications exist"
+  },
+   "sidebar": {
+    "title": "Sawaeid Farm",
+    "subtitle": "Management System",
+    "dashboard": "Dashboard",
+    "workers": "Workers",
+    "crops": "Crops",
+    "expenses": "Expenses",
+    "allExpenses": "All Expenses",
+    "addExpenseType": "Add Expense Type",
+    "reports": "Reports",
+    "farmMap": "Farm Map",
+    "settings": "Settings",
+    "help": "Help & Support",
+    "logout": "Logout"
+  },
+   "hero": {
+    "welcome": "Welcome back to Sawaeid",
+    "subtitle": "Manage your farm, workers, and expenses in one central command center.",
+    "viewFarm": "View Farm Map",
+    "logHarvest": "Log Harvest"
+  },"expenses": {
+    "delete_confirm": "Expense deleted successfully",
+    "title": "Expense Management",
+    "subtitle": "Advanced filtering and tracking for operational costs.",
+    "add_btn": "Add Expense",
+    "search_placeholder": "Search by reason...",
+    "all_categories": "All Categories",
+    "all_personnel": "All Personnel",
+    "table": {
+      "date": "Date",
+      "category": "Category",
+      "description": "Description",
+      "logged_by": "Logged By",
+      "amount": "Amount",
+      "actions": "Actions"
+    },
+    "pagination": "Showing {{start}} to {{end}} of {{total}} expenses"
+  },"expense_types": {
+    "title": "Expense Type Configuration",
+    "subtitle": "Define and organize the categories for your farm's financial tracking.",
+    "sidebar_title": "Expense Types",
+    "add_btn": "Add Expense Type",
+    "add_title": "Add New Category",
+    "edit_title": "Edit Category",
+    "form_name": "Category Name",
+    "form_description": "Detailed Description",
+    "placeholder_name": "e.g. Pest Control",
+    "placeholder_desc": "What does this category cover?",
+    "cancel": "Cancel",
+    "save": "Save Category",
+    "save_success": "Category updated successfully! ✅",
+     "delete_success":"deleted successfully",
+    "items_tagged": "{{count}} items tagged"
+  },
+  "common": {
+    "are_you_sure": "Are you absolutely sure?",
+    "delete_warning": "This action cannot be undone. This will permanently delete this record from our servers.",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "no_records": "No records found"
+  }
+}

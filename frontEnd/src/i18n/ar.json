@@ -1,0 +1,75 @@
+{
+  "header": {
+    "search": "ابحث عن المحاصيل أو المهام أو العمال...",
+    "toggleTheme": "تبديل الوضع",
+    "guest": "زائر",
+    "visitor": "مستخدم",
+    "notifications":"تنبيهات",
+    "noNotifications":"لا توجد تنبيهات"
+  },
+  "sidebar": {
+    "title": "مزرعة سواعد",
+    "subtitle": "نظام الإدارة",
+    "dashboard": "لوحة التحكم",
+    "workers": "العمال",
+    "crops": "المحاصيل",
+    "expenses": "المصروفات",
+    "allExpenses": "جميع المصروفات",
+    "addExpenseType": "إضافة نوع مصروف",
+    "reports": "التقارير",
+    "farmMap": "خريطة المزرعة",
+    "settings": "الإعدادات",
+    "help": "الدعم والمساعدة",
+    "logout": "تسجيل الخروج"
+    
+  },
+  "hero": {
+    "welcome": "مرحبًا بعودتك إلى مزرعة سواعد",
+    "subtitle": "قم بإدارة المزرعة والعمال والمصروفات في مركز تحكم واحد",
+    "viewFarm": "عرض خريطة المزرعة",
+    "logHarvest": "تسجيل الحصاد"
+  },"expenses": {
+    "delete_confirm": "تم حذف المصروف بنجاح",
+    "title": "إدارة المصروفات",
+    "subtitle": "تتبع متقدم وتصفية للتكاليف التشغيلية.",
+    "add_btn": "إضافة مصروف",
+    "search_placeholder": "بحث بالسبب...",
+    "all_categories": "كل الفئات",
+    "all_personnel": "كل الموظفين",
+    "table": {
+      "date": "التاريخ",
+      "category": "الفئة",
+      "description": "الوصف",
+      "logged_by": "بواسطة",
+      "amount": "المبلغ",
+      "actions": "إجراءات"
+    },
+    "pagination": "عرض {{start}} إلى {{end}} من أصل {{total}} مصروفات"
+  },
+  "expense_types": {
+    "title": "إعداد أنواع المصروفات",
+    "subtitle": "حدد ونظم الفئات لتتبع السجلات المالية لمزرعتك.",
+    "sidebar_title": "أنواع المصروفات",
+    "add_btn": "إضافة نوع مصروف",
+    "add_title": "إضافة فئة جديدة",
+    "edit_title": "تعديل الفئة",
+    "form_name": "اسم الفئة",
+    "form_description": "الوصف التفصيلي",
+    "placeholder_name": "مثال: مكافحة الآفات",
+    "placeholder_desc": "ما الذي تغطيه هذه الفئة؟",
+    "cancel": "إلغاء",
+    "save": "حفظ الفئة",
+    "save_success": "تم تحديث الفئة بنجاح! ✅",
+    "delete_success":"تم الحذف بنجاح",
+    "items_tagged": "{{count}} عناصر مرتبطة"
+
+  },
+  "common": {
+    "are_you_sure": "هل أنت متأكد تماماً؟",
+    "delete_warning": "لا يمكن التراجع عن هذا الإجراء. سيؤدي هذا إلى حذف السجل نهائياً من خوادمنا.",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "loading": "جاري التحميل...",
+    "no_records": "لا توجد سجلات"
+  }
+}
