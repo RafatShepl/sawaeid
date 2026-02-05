@@ -12,6 +12,7 @@
 },
 
   "dependencies": {
+    "homepage":"http://RafatShepl.github.io/sawaeid",
     "@tailwindcss/vite": "^4.1.18",
     "axios": "^1.13.4",
     "class-variance-authority": "^0.7.1",
